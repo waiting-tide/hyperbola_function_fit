@@ -8,3 +8,5 @@ by pyechart
 Add more detail remark to tell how to make a bar chart.
 Also, change some variables to see how the image changes.
 ----------------------------20230105 ver1.0.2------------------------------
+Add a line chart make example in hello_world
+----------------------------20230105 ver1.0.3------------------------------
